@@ -277,7 +277,7 @@ footer {
 
 /* Media Query */
 
-@media(min-max:786px) {
+@media(max-width:775px) {
     html {
         font-size: 40%;
     }
@@ -293,7 +293,7 @@ footer {
     }
 }
 
-@media(min-max:500px) {
+@media(max-width:500px) {
     html {
         font-size: 32%;
     }
